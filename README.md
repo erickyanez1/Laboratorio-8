@@ -58,7 +58,7 @@ una frecuencia de 2.5 Khz.**
 
 
 ###### **4.1.2 Conecte  el osciloscopio al resistor de carga RL. Observe la señal que aparece en
-el osciloscopio. **
+el osciloscopio  **
 
 <div align="center">
   
@@ -123,7 +123,7 @@ Se concluye que:
 
 - Los valores de voltaje no pueden sobrepasar el voltaje pico, debido a que es el valor de nuestra fuente de alimentación fija en este caso de 10V, lo cual impide que exista algún valor mayor a este ya que se denomina pico, es decir, el valor más alto. Lo único que puede pasar es que haya algún valor que se le aproxime pero nunca sobrepasarlo.
 - El uso y la manipulación del osciloscopio va a ser de gran utilidad, gracias a que este instrumento nos permite visualizar valores como: el valor eficaz, el valor pico y la frecuencia de la onda.
-- es mayor.
+- Esta onda representa el valor de la tensión de la Corriente alterna a través de un tiempo continuamente variable.
 
 # **8. BIBLIOGRAFÍA**
 
