@@ -17,7 +17,7 @@
 
 **OBJETIVO GENERAL**
   
-  - aje.
+  - Comprender de forma práctica las características de una onda senoidal mediante el uso de un osciloscopio, en un circuito de dos resistencias, en el cual llegaremos a visualizar los valores pico o también llamada amplitud. 
  
  **OBJETIVOS ESPECÍFICOS**
   - nas.
