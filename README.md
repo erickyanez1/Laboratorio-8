@@ -20,8 +20,10 @@
   - Comprender de forma práctica las características de una onda senoidal mediante el uso de un osciloscopio, en un circuito de dos resistencias, en el cual llegaremos a visualizar los valores pico o también llamados amplitud. 
  
  **OBJETIVOS ESPECÍFICOS**
-   nDeterminar
-
+   
+  -Familiarizarse con el uso de instrumentos de medida. 
+  
+  -Verificar el comportamiento de la onda al utiliza una frecuencia de 2.5khz                                                                                                               
   - Determinar experimentalmente las características de señales senoidales.                                                  
   
 # **2. MARCO TEÓRICO**
