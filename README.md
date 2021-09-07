@@ -21,9 +21,9 @@
  
  **OBJETIVOS ESPECÍFICOS**
    
-  -Familiarizarse con el uso de instrumentos de medida. 
+  - Familiarizarse con el uso de instrumentos de medida. 
   
-  -Verificar el comportamiento de la onda al utiliza una frecuencia de 2.5khz                                                                                                               
+  - Verificar el comportamiento de la onda al utiliza una frecuencia de 2.5khz                                                                                                               
   - Determinar experimentalmente las características de señales senoidales.                                                  
   
 # **2. MARCO TEÓRICO**
