@@ -21,12 +21,7 @@
  
  **OBJETIVOS ESPECÍFICOS**
   - nas.
-  - Determinar experimentalmente las características de señales senoidales.
-  - Dee carga y descarga.   
-  - Vuitos DC.
-  - Verificuitos AC.
-  - Verires.     
-  - Fda.                                                           
+  - Determinar experimentalmente las características de señales senoidales.                                                  
   
 # **2. MARCO TEÓRICO**
 
