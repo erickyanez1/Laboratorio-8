@@ -21,7 +21,7 @@
  
  **OBJETIVOS ESPECÍFICOS**
   - nas.
-  - Enco.
+  - Determinar experimentalmente las características de señales senoidales.
   - Dee carga y descarga.   
   - Vuitos DC.
   - Verificuitos AC.
