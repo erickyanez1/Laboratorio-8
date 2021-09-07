@@ -21,7 +21,9 @@
  
  **OBJETIVOS ESPECÍFICOS**
   - nas.
-  - nas.
+  -Realizar operaciones aritméticas con números complejos, tanto en su forma polar
+como rectangular.
+
   - Determinar experimentalmente las características de señales senoidales.                                                  
   
 # **2. MARCO TEÓRICO**
