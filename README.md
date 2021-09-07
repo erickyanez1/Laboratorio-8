@@ -98,7 +98,7 @@ Siete cuadros.
 
 ###### 5.2. ¿En qué valor está posicionada la perilla VOLTS/DIV? 
 
-1.
+La perilla está posicionada en 1.
 
 ###### 5.3. ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
