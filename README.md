@@ -128,7 +128,7 @@
 Se concluye que:
 
 - .
-- ón.
+- El uso y la manipulación del osciloscopio va a ser de utilidad, ya que gracias a este instrumento podremos encontrar valores como el valor eficaz, el valor pico, la frecuencia de la onda, etc.
 - es mayor.
 
 # **8. BIBLIOGRAFÍA**
