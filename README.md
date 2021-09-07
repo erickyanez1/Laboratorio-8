@@ -47,44 +47,25 @@
 
 ## **4.1 PROCEDIMIENTO**
 
-###### **4.1.1 Construya en el protoboard el circuito de la Figura 1.**
+###### **4.1.1  Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
+una frecuencia de 2.5 Khz.**
 
 <div align="center">
 
-
+![](https://github.com/erickyanez1/Laboratorio-8/blob/main/IMG/Ajuste_generador.png)
   
 </div>
 
 
-
-<div align="center">
-
-
-  
-</div>
-
-
-
-###### **4.1.2 Construya en el protoboard el circuito de la Figura 2.**
+###### **4.1.2 Conecte  el osciloscopio al resistor de carga RL. Observe la señal que aparece en
+el osciloscopio. **
 
 <div align="center">
   
-
+![](https://github.com/erickyanez1/Laboratorio-8/blob/main/IMG/Se%C3%B1al%20osciloscopio.png)
+![](https://github.com/erickyanez1/Laboratorio-8/blob/main/IMG/Onda.png)
   
 </div>
-
-###### **a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.**
-
-
-<div align="center">
-
-
-  
-</div>
-
-
-
-
 
 #  5.RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
@@ -145,5 +126,9 @@ Se concluye que:
 - es mayor.
 
 # **8. BIBLIOGRAFÍA**
+
+Onda senoidal - EcuRed. (2021). Retrieved 7 September 2021, from https://www.ecured.cu/Onda_senoidal
+
+Alexander, Charles K., Fundamentos de circuitos eléctricos. McGraw-Hill, 2006
 
 
