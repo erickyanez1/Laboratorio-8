@@ -92,41 +92,41 @@
 #  5.RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
 
-######5.1. ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+###### 5.1. ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
 Siete cuadros.
 
-######5.2. ¿En qué valor está posicionada la perilla VOLTS/DIV? 
+###### 5.2. ¿En qué valor está posicionada la perilla VOLTS/DIV? 
 
 1.
 
-######5.3. ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+###### 5.3. ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
 Ocho cuadros.
 
-######5.4. ¿En qué valor está posicionada la perilla TIME/DIV?
+###### 5.4. ¿En qué valor está posicionada la perilla TIME/DIV?
 
 50 us.
 
-######5.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
+###### 5.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
 del osciloscopio?
 
 Amplitud de voltaje: 6.85 (V)
 
 Periodo: 0.0004 (s)
 
-######5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
+###### 5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.
 
 f: 1/0.0004 = 2500 (Hz)
 
 ω: 5000 PI (rad/s)
 
-######5.7. Con el multímetro digital mida el voltaje de salida en RL: 
+###### 5.7. Con el multímetro digital mida el voltaje de salida en RL: 
 
 4.85V
 
-######5.8. Compare el voltaje medido en el punto 5.5. y el obtenido en el punto 5.7.
+###### 5.8. Compare el voltaje medido en el punto 5.5. y el obtenido en el punto 5.7.
 ¿Coinciden? No ¿Por qué?
 
 Porque el vp es el 70% del vrms y el valor eficaz es el valor pico sobre raíz de 2, en este caso si se reemplaza el Vp de 6.85 nos queda el Vrms del multímetro y por este motivo el valor es distinto.
